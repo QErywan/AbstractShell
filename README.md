@@ -1,2 +1,2 @@
 # AbstractShell
-Abstract Shell Program for UNiversity Coursework
+Abstract Shell Program for University Coursework
